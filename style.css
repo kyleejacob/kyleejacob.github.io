@@ -1,12 +1,9 @@
 
-
-body
-{background-color:lightpink}
+body { background-color:lightpink }
 {font-family:"Georgia";
-font-size:30px;
-color:darkred}
+font-size:30pt;
+color:darkred; }
 
 a { color: darkred;
     text-decoration: none }
 a:hover { color: white }
-
