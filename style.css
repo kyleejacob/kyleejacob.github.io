@@ -1,9 +1,15 @@
 
 body { background-color:lightpink }
-{font-family:"Georgia";
+{font-family:'Dancing Script', cursive;
 font-size:30pt;
 color:darkred; }
+
 
 a { color: darkred;
     text-decoration: none }
 a:hover { color: white }
+
+
+img {
+    border-radius: 50%;
+}
